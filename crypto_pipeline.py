@@ -5,9 +5,6 @@ Created on Mon Jul 21 20:12:32 2025
 
 @author: test
 """
-git remote add origin https://github.com/dragonboy1351-svg/cryptoassignment.git
-git branch -M main
-git push -u origin main
 !pip install streamlit
 !pip install vaderSentiment
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
