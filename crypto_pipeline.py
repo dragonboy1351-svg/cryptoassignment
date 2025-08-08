@@ -16,7 +16,7 @@ import re
 import time
 import random
 from pathlib import Path
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+#from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 
 # config
