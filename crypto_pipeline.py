@@ -5,7 +5,7 @@ Created on Mon Jul 21 20:12:32 2025
 
 @author: test
 """
-!pip install streamlit
+pip install streamlit
 !pip install vaderSentiment
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 analyzer = SentimentIntensityAnalyzer()
