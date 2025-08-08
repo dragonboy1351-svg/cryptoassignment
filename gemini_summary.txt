@@ -1,0 +1,5 @@
+Sentiment-Enhanced Crypto Portfolio Summary
+--------------------------------------------------
+Latest BTC 7-Day Return: 0.0313
+Average News Sentiment Score: 0.0000
+Recommendation: Neutral sentiment detected – hold current position.
